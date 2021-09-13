@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/cowsay-stephym9170/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/cowsay-stephym9170#readme"
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-stephym9170#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }

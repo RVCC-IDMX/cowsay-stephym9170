@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "help": "cowsay -h",
-   "cows": "cowsay -l",
-   "cowsay": "cowsay"
- },
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RVCC-IDMX/cowsay-stephym9170.git"
